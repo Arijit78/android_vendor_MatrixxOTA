@@ -1,3 +1,11 @@
+# Matrixx v-11.8.0 (A15) Tangent Changelog 
+- Sep patch merged 
+- reduce the size of keyguard affordance 
+- switch to pixel 10 pro xl for mainline spoofing 
+- spoof playstore to mainline
+- update Keybox spoofing & add default keybox in source (now you will gate strong out of box)
+-  Add an option to customize blur radius in Launcher
+
 # Matrixx v-11.7.0-EOL(A15) Tangent Changelog 
 - Fix unsupported qs tile icon crash
 - Fix flickering issue in streaming video cases
